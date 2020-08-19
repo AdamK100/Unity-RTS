@@ -1,0 +1,76 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 32
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                },
+                "Subsurface Scattering Parameters": {
+                    "sssColor": [
+                        0.7009999752044678,
+                        0.3009999990463257,
+                        0.3050000071525574
+                    ],
+                    "sssEnabled": true,
+                    "sssScale": 0.5,
+                    "sssType": 1
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        },
+        "Main shader (Copy)": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.4000000059604645,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2400000095367432,
+                    "nbSamples": 32
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 0.9300000071525574,
+                    "usePOM": false
+                }
+            },
+            "shader": "pbr-metal-rough-with-alpha-blending",
+            "shaderInstance": "Main shader (Copy)"
+        }
+    },
+    "texturesets": {
+        "Ground": {
+            "shader": "Main shader"
+        },
+        "Material_145": {
+            "shader": "Main shader"
+        },
+        "Material_193": {
+            "shader": "Main shader"
+        },
+        "Rocks": {
+            "shader": "Main shader"
+        },
+        "Sandbags": {
+            "shader": "Main shader"
+        },
+        "Wood": {
+            "shader": "Main shader"
+        },
+        "mETAL": {
+            "shader": "Main shader"
+        }
+    }
+}

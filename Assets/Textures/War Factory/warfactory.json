@@ -1,0 +1,106 @@
+{
+    "format": {
+        "version": "1.0"
+    },
+    "shaders": {
+        "Main shader": {
+            "parameters": {
+                "Common Parameters": {
+                    "ao_intensity": 0.75,
+                    "emissive_intensity": 1,
+                    "horizonFade": 1.2999999523162842,
+                    "nbSamples": 16
+                },
+                "Parallax Occlusion Mapping": {
+                    "maxPOMSamples": 16,
+                    "minPOMSamples": 4,
+                    "pomStrength": 1,
+                    "usePOM": false
+                },
+                "Subsurface Scattering Parameters": {
+                    "sssColor": [
+                        0.7009999752044678,
+                        0.3009999990463257,
+                        0.3050000071525574
+                    ],
+                    "sssEnabled": true,
+                    "sssScale": 0.5,
+                    "sssType": 1
+                }
+            },
+            "shader": "pbr-metal-rough",
+            "shaderInstance": "Main shader"
+        }
+    },
+    "texturesets": {
+        "Barrels": {
+            "shader": "Main shader"
+        },
+        "Crates": {
+            "shader": "Main shader"
+        },
+        "Detail1": {
+            "shader": "Main shader"
+        },
+        "Detail2": {
+            "shader": "Main shader"
+        },
+        "Dish": {
+            "shader": "Main shader"
+        },
+        "Doors": {
+            "shader": "Main shader"
+        },
+        "Factory1": {
+            "shader": "Main shader"
+        },
+        "Factory1Tubes.001": {
+            "shader": "Main shader"
+        },
+        "Factory1Tubes2": {
+            "shader": "Main shader"
+        },
+        "Factory2": {
+            "shader": "Main shader"
+        },
+        "Factory3": {
+            "shader": "Main shader"
+        },
+        "Fences": {
+            "shader": "Main shader"
+        },
+        "FencesOutline": {
+            "shader": "Main shader"
+        },
+        "Glass": {
+            "shader": "Main shader"
+        },
+        "Ground": {
+            "shader": "Main shader"
+        },
+        "Lights": {
+            "shader": "Main shader"
+        },
+        "OilTanks": {
+            "shader": "Main shader"
+        },
+        "Pads": {
+            "shader": "Main shader"
+        },
+        "Smoke_Tubes": {
+            "shader": "Main shader"
+        },
+        "Spin": {
+            "shader": "Main shader"
+        },
+        "Tubes": {
+            "shader": "Main shader"
+        },
+        "Tunnel": {
+            "shader": "Main shader"
+        },
+        "sOLARpANELS": {
+            "shader": "Main shader"
+        }
+    }
+}

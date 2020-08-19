@@ -1,0 +1,100 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 10.07.2020 22:21:48
+
+newmtl shirtbelt_tga
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0625 0.0625 0.0625
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.2500 0.2500 0.2500
+	map_Ka C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\shirtbelt.jpg
+	map_Kd C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\shirtbelt.jpg
+
+newmtl hands_tga
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0625 0.0625 0.0625
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.2500 0.2500 0.2500
+	map_Ka C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\hands.jpg
+	map_Kd C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\hands.jpg
+
+newmtl pants_tga
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0625 0.0625 0.0625
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.2500 0.2500 0.2500
+	map_Ka C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\pants.jpg
+	map_Kd C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\pants.jpg
+
+newmtl greatcoat_tga
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0625 0.0625 0.0625
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.2500 0.2500 0.2500
+	map_Ka C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\greatcoat.jpg
+	map_Kd C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\greatcoat.jpg
+
+newmtl bootsleeves_tga
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0625 0.0625 0.0625
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.2500 0.2500 0.2500
+	map_Ka C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\bootsleeves.jpg
+	map_Kd C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\bootsleeves.jpg
+
+newmtl head_tga
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0625 0.0625 0.0625
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.2500 0.2500 0.2500
+	map_Ka C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\head.jpg
+	map_Kd C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\head.jpg
+
+newmtl ushanka_tga
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0625 0.0625 0.0625
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0500 0.0500 0.0500
+	Ke 0.2500 0.2500 0.2500
+	map_Ka C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\ushanka.jpg
+	map_Kd C:\Users\Adam\Downloads\Compressed\cadnav-1P426155219\cadnav.com_model\Models_E0120A061\ushanka.jpg
